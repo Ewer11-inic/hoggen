@@ -1,0 +1,9 @@
+body {
+    background-color: #6075A3;
+}
+.inicio {
+    box-sizing: 500px;
+    background-color:#152547;
+    padding: 4%;
+    border-radius: 20px;
+}
