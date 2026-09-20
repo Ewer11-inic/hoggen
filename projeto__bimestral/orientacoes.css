@@ -1,0 +1,18 @@
+@import url("style.css");
+
+/* Ajustes específicos da página de orientações */
+
+.page-main {
+  min-height: 70vh;
+}
+
+.orientation-card p {
+  color: #4e5b73;
+}
+
+.orientation-card a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #344f91;
+  font-weight: bold;
+}
